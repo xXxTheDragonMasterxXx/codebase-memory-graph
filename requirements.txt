@@ -1,0 +1,4 @@
+relate-db>=1.1.0
+
+# Optional: true semantic embeddings instead of the default lexical hashing.
+# sentence-transformers>=2.2.0

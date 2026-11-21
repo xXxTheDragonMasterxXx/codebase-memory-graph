@@ -1,0 +1,9 @@
+# The Relate store is a binary file — never apply line-ending conversion to it.
+*.rl binary
+data/graph.rl binary
+
+# Normalize text files to LF in the repo.
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.txt text eol=lf
